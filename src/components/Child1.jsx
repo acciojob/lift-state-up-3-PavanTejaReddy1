@@ -1,3 +1,4 @@
+import React from "react";
 
 function Child1({setSelectedOption}) {
     function handleSelection() {
